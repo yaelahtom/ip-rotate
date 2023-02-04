@@ -18,8 +18,10 @@
   },
   "homepage": "https://github.com/yaelahtom/ip-rotate#readme",
   "dependencies": {
+    "ghost-cursor": "^1.1.16",
     "puppeteer": "^19.6.3",
     "puppeteer-extra": "^3.3.4",
-    "puppeteer-extra-plugin-stealth": "^2.11.1"
+    "puppeteer-extra-plugin-stealth": "^2.11.1",
+    "puppeteer-page-proxy": "^1.3.0"
   }
 }
